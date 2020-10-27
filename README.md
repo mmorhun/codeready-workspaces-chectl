@@ -1,3 +1,11 @@
+# NOTE about this branch
+
+This branch is deprecated, and should NOT be used for new code, commits, docs, etc.
+
+See latest default branch, eg., crw-2.5-rhel-8, which aligns this repo with its pkgs.devel.redhat.com counterpart. 
+
+--------------------------------------------
+
 crwctl
 ======
 
