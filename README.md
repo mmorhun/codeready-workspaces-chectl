@@ -1,10 +1,10 @@
-# NOTE about this branch
+# About this branch
 
-This branch is deprecated, and should NOT be used for new code, commits, docs, etc.
+NOTE: the so-called master branch is deprecated and is no longer kept up to date. 
 
-See latest default branch, eg., crw-2.5-rhel-8, which aligns this repo with its pkgs.devel.redhat.com counterpart. 
+For the latest release, see the crw-2.y-rhel-8 branch with the largest y value.
 
---------------------------------------------
+-----
 
 crwctl
 ======
